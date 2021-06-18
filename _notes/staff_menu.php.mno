@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Staff_Menu" value="name:Username;datatype:string,name:Password;datatype:string,name:Name;datatype:string,name:IC_No;datatype:string,name:Contact_No;datatype:string,name:Email;datatype:string,name:UserType;datatype:string" />
+</info>
